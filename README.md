@@ -1,1 +1,1 @@
-# Text-File-Compression-using-Huffman-Coding
+# Text-File-Compression and Decompression-using-Huffman-Coding
